@@ -26,7 +26,7 @@ SECRET_KEY = 'qhra4lsd6_ejs4u@p$8(cah^0zp(*+$r$5-+3!&ns-z4qlbu3$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [‘0.0.0.0’, ‘localhost’, 'tdlapp.herokuapp.com/']
 
 
 # Application definition
